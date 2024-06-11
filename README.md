@@ -1,7 +1,7 @@
 # AFsample2
 ![20240226_mov.gif](20240226_mov.gif)
 
-Introdicing a way to induce diversity in the AF2 ensemble spanning multiplle conformational states.
+Introdicing a way to induce diversity in the AF2 ensemble spanning multiple conformational states.
 
 ## Introduction
 
